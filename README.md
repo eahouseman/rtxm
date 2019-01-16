@@ -5,7 +5,9 @@ Peer-reviewed article:  Houseman EA, Virji MA. A Bayesian Approach for Summarizi
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712446/
 
-See vignettes for examples of how to use the R software.
+The current version is 1.5.  See vignettes in rtxmV015-Examples.zip for examples of how to use the R software.
+
+Currently, an article using this method in an extensive, detailed application (healthcare workplace setting) is under peer review.  It contains a very extensive vignette.  Once the paper is accepted for publication, the vignette will be linked here (or reproduced entirely if it does not violate copyright).  
 
 Abstract
 Objective
